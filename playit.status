@@ -1,229 +1,974 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732577034335 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732577280232 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577037396 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577283308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577040625 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577286367 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577043704 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577289425 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577046763 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577292488 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577049819 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577295561 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577052916 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577298646 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577055990 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577301714 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577059064 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577304781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577062126 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577307837 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577065186 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577310902 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577068252 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577313961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577071321 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577317019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577074385 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577320091 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577077454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577323161 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577080531 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577326219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577083607 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577329280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577086681 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577332347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577089750 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577335416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577092831 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577338487 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577095932 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577341546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577099003 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577344620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577102080 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577347713 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577105137 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577350771 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577108198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577353854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577111263 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577356917 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577114328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577359980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577117390 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577363041 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577120452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577366119 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577123523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577369195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577126598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577372259 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577129655 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577375325 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577132717 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577378386 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577135777 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577381490 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577138834 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577384554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577141890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577387619 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577144943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577390681 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577147999 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577393747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577151051 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577396815 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577154135 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577399880 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577157196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577402952 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577160253 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577406055 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577163433 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577409158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577166500 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577412219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577169555 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577415280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732577172618 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732577418340 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577421394 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577424487 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577427582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577430644 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577433700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577436792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577439894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577442957 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577446018 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577449095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577452177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577455256 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577458332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577461407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577464479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577467553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577470621 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577473701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577476765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577479843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577482910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577485973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577489049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577492120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577495188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577498247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577501307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577504390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577507463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577510541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577513605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577516812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577519886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577522964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577526033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577529106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577532167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577535225 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577538286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577541346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577544402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577547499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577550565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577553627 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577556707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577559786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577562850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577565919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577568981 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577572045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577575136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577578196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577581255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577584313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577587387 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577590457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577593517 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577596576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577599677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577602769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577605833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577608897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577611972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577615035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577618103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577621179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577624236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577627295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577630374 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577633441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577636510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577639588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577642658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577645729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577648794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577651849 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577654923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577658144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577661213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577664274 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577667332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577670395 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577673467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577676531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577679601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577682672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577685806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577688870 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577691974 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577695036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577698090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577701151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577704215 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577707279 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577710345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577713406 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577716466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577719533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577722607 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577725688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577728753 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577731822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577734882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577737947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577741028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577744099 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577747164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577750225 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577753292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577756400 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577759475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577762554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577765634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577768704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577771764 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577774829 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577777892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577780964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577784026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577787086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577790142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577793199 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577796280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577799348 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577802422 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577805480 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577808550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577811625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577814694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577817762 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577820822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577823890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577826967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577830047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577833121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577836206 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577839281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577842353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577845408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577848478 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577851546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577854616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577857674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577860745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577863799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577866853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577869928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577872997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+minutes-lancaster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732577876054 tunnel running, 1 tunnels registered
 
 
 TUNNELS
